@@ -6,6 +6,4 @@ Get it from:
 
 http://addurl.cf/download
 
-http://add.url.ph/download
-
-or click on the button: 'Clone or download'
+or click on the button: 'Clone'
