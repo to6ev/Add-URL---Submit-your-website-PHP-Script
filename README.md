@@ -4,6 +4,6 @@ Create Own URL Submitter Website with this free PHP Script
 
 Get it from:
 
-http://addurl.cf/download
+https://addurl.cf/download
 
 or click on the button: 'Code'
