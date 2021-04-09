@@ -6,4 +6,4 @@ Get it from:
 
 http://addurl.cf/download
 
-or click on the button: 'Clone'
+or click on the button: 'Code'
