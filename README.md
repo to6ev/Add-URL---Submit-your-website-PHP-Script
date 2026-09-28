@@ -2,12 +2,10 @@
 
 Create Own URL Submitter Website with this free PHP Script
 
-Demo: http://addurl.space
+Demo: http://addurl.online
 
 Get it from:
 
-http://addurl.space/download
-
-http://addurl.eti.pw/download
+http://addurl.online/download
 
 or click on the button: 'Code'
